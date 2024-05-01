@@ -3,6 +3,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+![image](https://github.com/Jotacemartins/BuscaCEP-main/assets/144477471/177cd9be-d802-4791-8671-a8176b00b521)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
